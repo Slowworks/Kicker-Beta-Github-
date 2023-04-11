@@ -154,7 +154,7 @@ Print Settings-WallThickness(WT) 1.8 WallCount(WC) 3 Top/Bottom Layer Thickness 
 
 -1x 14mm length, 6mm OD,0.6mm Wire Size,Spring 
 
--6inch brass barrel 17/32" OD x 0.014" Wall
+-6inch brass barrel 17/32" OD x 0.014" Wall (barrel needs a flare on one end) 
 
 -2x 15mm OD 11mm ID 2mm Width Oring
 

@@ -232,6 +232,10 @@ Thumb Screw 20mm - 1
 
 1x 150mm length, 4mm OD 0.2mm Wall Thickness
 
+# Air Chamber 
+
+1x Clear Polycarbonate Tubing, 4inch length, 1-3/8" ID, 1-1/2" OD, 1/16"
+
 #  Original designs 2019 to now
 
 My First Working design, break action at the front 

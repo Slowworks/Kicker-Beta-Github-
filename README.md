@@ -17,6 +17,10 @@ Build videos found at https://www.youtube.com/channel/UC06lH3h-eoEIFO0K_K5rYGg
 
 WATCH OUT! Videos will not always be in line with hardware on this page, this page will be the most updated for the build, and I will try to keep up with videos. The overall principles of the videos will remain the same. Please leave comments to help future builders. 
 
+# Options
+
+Some parts can be replaced with Hardware store items. And probably be less expensive than an online order, Look at the required Hardware list at the bottom for options
+
 # 1-7-Pusher 
 
 Print Settings-WallThickness(WT) 1.8 WallCount(WC) 3 Top/Bottom Layer Thickness (T/BLT) 1.14 Top/Bottom Count 5 Infill 40%
@@ -185,19 +189,19 @@ Print Settings-WallThickness(WT) 1.8 WallCount(WC) 3 Top/Bottom Layer Thickness 
 
 # M3-0.5 
 
-8mm - 17
+8mm - 17 or (or a Coarse Screws #4 x 3/8)
 
-10mm - 5
+10mm - 2
 
-16mm - 21
+16mm - 29 (or a Coarse Screws #4 x 5/8)
 
-20mm - 4 (1 Filed Down)
+20mm - 1 (1 Filed Down) (or a Coarse Screws #4 x 5/8 fied down)
 
-35mm - 10 
+35mm - 2 
 
-Nut - 4
+Nut - 1
 
-Thumb Screw 20mm - 1
+Thumb Screw 20mm - 1  (or 16mm M3 Must be an M3)
 
 # 6/32 
 
@@ -224,6 +228,10 @@ Thumb Screw 20mm - 1
 # Spring
 
 2x 8mm Length, 6mm OD,0.6mm Wire Size Spring
+
+1x 12mm Length, 6mm OD,0.6mm Wire Size Spring 
+
+2x 50mm Length, 6mm OD,0.6mm Wire Size,50mm
 
 1x 35mm Lenght, 9mm OD,0.6mm Wire Size spring
 

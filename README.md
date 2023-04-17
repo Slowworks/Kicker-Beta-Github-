@@ -219,13 +219,13 @@ Thumb Screw 20mm - 1  (or 16mm M3 Must be an M3)
 
 # O-Rings
 
-2x 24mm OD 17.8mm ID 3.1mm Width Oring
+2x 24mm OD 17.8mm ID 3.1mm Width Oring   https://www.amazon.com/gp/product/B07YJDJJGV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
-2x 15mm OD 11mm ID 2mm Width Oring
+2x 15mm OD 11mm ID 2mm Width Oring   https://www.amazon.com/gp/product/B07F352N1N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
-2x 5mm OD 2mm ID 1.5mm Width Oring
+2x 5mm OD 2mm ID 1.5mm Width Oring   https://www.amazon.com/gp/product/B07D9NM1CJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
-# Spring
+# Spring https://www.amazon.com/gp/product/B076LTYY5K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 2x 8mm Length, 6mm OD,0.6mm Wire Size Spring
 

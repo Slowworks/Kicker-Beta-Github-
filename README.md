@@ -119,12 +119,13 @@ https://www.youtube.com/watch?v=LtRP3O0ix5Q
 
 Print Settings-WallThickness(WT) 1.8 WallCount(WC) 3 Top/Bottom Layer Thickness (T/BLT) 1.14 Top/Bottom Count 5 Infill 40%
 
-![PXL_20230407_035950579](https://user-images.githubusercontent.com/129894905/230540079-0088aabf-2cfc-41d0-ae0a-5cb9a077ce0e.jpg)
+![PXL_20230417_050413758](https://user-images.githubusercontent.com/129894905/232383931-567ea355-c13f-4555-919f-54fddd09845b.jpg)
+
 
 1x 170mm 6/32 Threaded Rod
 -4x 6/32 Locking Nuts
 
--2x 35mm length, 9mm OD,0.6mm Wire Size Spring 
+-1x 6mm OD,0.6mm Wire Size, 50mm length
 
 -2x M3 16mm
 -2x M3 8mm

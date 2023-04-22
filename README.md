@@ -19,6 +19,11 @@ WATCH OUT! Videos will not always be in line with hardware on this page, this pa
 
 # Options
 
+    # Complete Build
+    Complete Build with Choice primary color (not Black or Silver, 170), And optional k26 (+ 2 Dollares) and extrented Barrel (+ 4 Dollars), 
+
+    # Hardware Kit 
+    All Hardware Needed for the Build + 
 Some parts can be replaced with Hardware store items. And probably be less expensive than an online order, Look at the required Hardware list at the bottom for options
 
 # 1-7-Pusher 

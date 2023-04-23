@@ -20,10 +20,16 @@ WATCH OUT! Videos will not always be in line with hardware on this page, this pa
 # Options
 
     # Complete Build
-    Complete Build with Choice primary color (not Black or Silver, 170), And optional k26 (+ 2 Dollares) and extrented Barrel (+ 4 Dollars), 
+    Complete Build with Choice primary color (not Black or Silver, 170 + Shipping), And optional k26 (+ 2 Dollares) and extrented Barrel (+ 4 Dollars), 
 
     # Hardware Kit 
-    All Hardware Needed for the Build + 
+    All Hardware Needed for the Build using M3 Screws (55 + Shipping)
+    
+    # Minimal Hardware Kit, Specialty Pieces Only, (35 + Shipping)
+    
+    # No Hardware Kit, Go Below, There is a list of all Hardware Needed and Techniques for and altered Metal Pieces! 
+    
+    
 Some parts can be replaced with Hardware store items. And probably be less expensive than an online order, Look at the required Hardware list at the bottom for options
 
 # 1-7-Pusher 
@@ -40,31 +46,24 @@ Print Settings-WallThickness(WT) 1.8 WallCount(WC) 3 Top/Bottom Layer Thickness 
 -1x M3 20mm
 -1x M3 35mm
 
-# 8-13-CylinderHousing
+# 8-13-CylinderHousing / 14-17-Grip
 
 Print Settings-WallThickness(WT) 1.8 WallCount(WC) 3 Top/Bottom Layer Thickness (T/BLT) 1.14 Top/Bottom Count 5 Infill 40%
 
-![PXL_20230408_013124168](https://user-images.githubusercontent.com/129894905/230697530-31ec43c8-ce8e-4e05-a8c8-120661a31393.jpg)
+Clyinder housing. Orientation Matters for best perfomance Majority of volumue facing build plate
 
-1x M3 20mm
--6x M3 16mm
--3x M3 10mm
+-17x M3 16mm 0r #4 5/8 Coarse Screws 
 
--2x M3 8mm (custom Grinded to fit)
-
-https://www.youtube.com/watch?v=etDtnEgS6GM&t=12s
+-1x 35mm Length, 6mm OD, 0.6mm Wire Size spring
 
 Filing down where the catch would meet the flickCatch helps performance 
 
-# 14-17-Grip
+
 
 Print Settings-WallThickness(WT) 1.8 WallCount(WC) 3 Top/Bottom Layer Thickness (T/BLT) 1.14 Top/Bottom Count 5 Infill 40%
 ![PXL_20230409_224824838](https://user-images.githubusercontent.com/129894905/230803512-2c91921f-853d-404f-955d-bf1a5b2c147c.jpg)
 
-3x M3 Nut
--3x M3 35mm
--2x M3 20mm
--4x M3 16mm
+
 
 -1x 25mm Length, 6mm OD, 0.6mm Wire Size spring
 

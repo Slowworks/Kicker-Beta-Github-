@@ -1,5 +1,9 @@
 # Kicker
 
+Creative Commons License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![PXL_20230407_045756137 MP](https://user-images.githubusercontent.com/129894905/230805564-32b0719b-b9b4-4a8d-ac57-6063faf0b2e2.jpg)
 
 
